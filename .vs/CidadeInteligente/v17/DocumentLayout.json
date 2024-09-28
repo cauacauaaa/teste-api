@@ -1,12 +1,103 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|c:\\users\\cauab\\onedrive\\\u00E1rea de trabalho\\fiapcap7\\cidadeinteligente\\cidadeinteligente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|solutionrelative:cidadeinteligente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|c:\\users\\cauab\\onedrive\\\u00E1rea de trabalho\\fiapcap7\\cidadeinteligente\\cidadeinteligente\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|solutionrelative:cidadeinteligente\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|c:\\users\\cauab\\onedrive\\\u00E1rea de trabalho\\fiapcap7\\cidadeinteligente\\cidadeinteligente\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|solutionrelative:cidadeinteligente\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|c:\\users\\cauab\\onedrive\\\u00E1rea de trabalho\\fiapcap7\\cidadeinteligente\\cidadeinteligente\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|solutionrelative:cidadeinteligente\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|c:\\users\\cauab\\onedrive\\\u00E1rea de trabalho\\fiapcap7\\cidadeinteligente\\cidadeinteligente\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33E20E9-E4D7-4B8A-98F3-E4334A0A7BE6}|CidadeInteligente\\CidadeInteligente.csproj|solutionrelative:cidadeinteligente\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Dockerfile",
+              "RelativeDocumentMoniker": "CidadeInteligente\\Dockerfile",
+              "ToolTip": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Dockerfile",
+              "RelativeToolTip": "CidadeInteligente\\Dockerfile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-28T00:07:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Controllers\\MonitorController.cs",
+              "RelativeDocumentMoniker": "CidadeInteligente\\Controllers\\MonitorController.cs",
+              "ToolTip": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Controllers\\MonitorController.cs",
+              "RelativeToolTip": "CidadeInteligente\\Controllers\\MonitorController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:52:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Program.cs",
+              "RelativeDocumentMoniker": "CidadeInteligente\\Program.cs",
+              "ToolTip": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Program.cs",
+              "RelativeToolTip": "CidadeInteligente\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:52:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CidadeInteligente\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\WeatherForecast.cs",
+              "RelativeToolTip": "CidadeInteligente\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:52:19.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CidadeInteligente\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\cauab\\OneDrive\\\u00C1rea de Trabalho\\FiapCap7\\CidadeInteligente\\CidadeInteligente\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CidadeInteligente\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:52:13.577Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
